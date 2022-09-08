@@ -10,10 +10,6 @@
   url: "/presentations/"
   side: left
 
-- title: Teaching
-  url: "/teaching/"
-  side: left
-
 - title: "CV"
   url: "/cv/"
   side: left
@@ -24,10 +20,6 @@
 #   dropdown:
 #   - title: "Blog Archive"
 #     url: "/blog/archive/"
-
-# - title: "Search"
-#   url: "/search/"
-#   side: right
 
 - title: "Contact"
   url: "/contact/"
