@@ -1,0 +1,35 @@
+# This page is used to automatically generate the publication list in the file pages/publications.md
+######################################
+
+- class: "peer-reviewed"
+  authors: "Ferrari, Nathália C and Martell, Raquel and Okido, Daniela H and <b>Romanzini, Grasiele</b> and Magnan, Viviane and Barbosa, Marcia C and Brito, Carolina"
+  year: "2018"
+  title: "Geographic and gender diversity in the Brazilian Academy of Sciences"
+  journal: "ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS"
+  volume: "90"
+  pages: "2543 - 2552"
+  doi: "https://doi.org/10.1590/0001-3765201820170107"
+
+- class: "book"
+  authors: "<b>Bezerra, Grasiele</b> and Lazzaro, Daniela and Peixoto, Aruquia and Lopes, Maria Margaret and Andrade, Carolina Horta and  Lopes, Helena J. Nussenzveig and  Barbosa, Marcia C."
+  year: "2019"
+  title: "Female Researchers in Science in Brazil: the Scissors Effect"
+  journal: "La Brecha de Género en Matemática, Computación y Ciencias Naturales. Orgs. Montes, LM & and Dawson, SP Sociedad Mexicana de Fisica"
+  pages: "55 - 67"
+  doi: "https://dececol.cl/wp-content/uploads/2020/01/brecha_genero_book.pdf"
+
+- class: "book"
+  authors: "<b>Bezerra, Grasiele</b> Barbosa, Marcia C."
+  year: "2016"
+  title: "Mulheres na física no Brasil"
+  journal: "SBF-SOCIEDADE BRASILEIRA DE FÍSICA-50 ANOS (1966-2016)"
+  pages: "130 - 133"
+  doi: "http://www.sbfisica.org.br/arquivos/SBF-50-anos.pdf"
+
+- class: "bdissertation"
+  authors: "<b>Bezerra, Grasiele</b>"
+  year: "2019"
+  title: "Testando gravidade pós-Newtoniana parametrizada com lentes gravitacionais fortes"
+  institution: "Federal University of Rio Grande do Sul"
+  address: "Porto Alegre, Brazil"
+  doi: "https://lume.ufrgs.br/handle/10183/206590"

@@ -1,0 +1,90 @@
+# Missing conference participation:
+#   Astroinformatics 2021. 2021. (Congresso).
+#   Inverno Astrofísico. 2019. (Outra).
+#   Semana Acadêmica da Física e da Engenharia Física UFRGS. 2019. (Outra).
+
+# TODO: translate titles + add urls + add location
+
+# This page is used to automatically generate the presentation list in the file pages/presentations.md
+######################################
+
+- class: "presentation"
+  title: "Galaxy Dynamics and Modified Gravity from Velocity Dispersion in Eintein Rings Systems"
+  material: " "
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "Cosmology From Home 2022"
+  date: "2022"
+  local: " "
+  url: "#"
+
+- class: "presentation"
+  title: "Testing Gravity with Einstein Rings and Velocity Dispersion"
+  material: " "
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "II Workshop on Lensing by Galaxies and Clusters"
+  date: "2022"
+  local: " "
+  url: "#"
+
+- class: "presentation"
+  title: "Testando gravidade pós-Newtoniana parametrizada utilizando lentes gravitacionais fortes"
+  material: " "
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "First Workshop on Lensing by Galaxies and Clusters"
+  date: "2019"
+  local: " "
+  url: "#"
+
+- class: "poster"
+  title: "Geographic and Gender Diversity  in the Brazilian Academy of Sciences"
+  material: "#"
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "IX Workshop in Complexity of Water and Other Liquids"
+  date: "2018"
+  local: "Brazil"
+  url: "#"
+
+- class: "poster"
+  title: "Mulheres na Física"
+  material: "#"
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "VII Workshop in Complexity of Water, Other Liquids and Science Education"
+  date: "2016"
+  local: "Brazil"
+  url: "#"
+
+- class: "poster"
+  title: "Mulheres na Física"
+  material: "#"
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "VI Workshop on Complexity of Water and other Liquids"
+  date: "2015"
+  local: "Brazil"
+  url: "#"
+
+- class: "poster"
+  title: "Utilização do lodo de fosfato de zinco como nova matéria-prima na fabricação de produtos cerâmicos"
+  material: "#"
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "III Mostra IFTec."
+  date: "2014"
+  local: "Brazil"
+  url: "#"
+
+- class: "poster"
+  title: "Teoria da relatividade de Albert Einstein, aplicações e mitos da ficção cinetífica"
+  material: "#"
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "II Mostra IFTec."
+  date: "2013"
+  local: "Brazil"
+  url: "#"
+
+- class: "poster"
+  title: "Influência das condições de cura e adição de fibras nas propriedades finais da resina poliester reticulada"
+  material: "#"
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "Mostra IFTec."
+  date: "2012"
+  local: "Brazil"
+  url: "#"

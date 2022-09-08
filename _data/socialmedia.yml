@@ -1,0 +1,24 @@
+- name: GitHub
+  url: https://github.com/Bezerragrasi
+  class: fab fa-github-alt
+  title: GitHub
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/grasiele-romanzini-bezerra/
+  class: fab fa-linkedin-in
+  title: "LinkedIn"
+
+# - name: ORCID
+#   url: #
+#   class: fab fa-orcid
+#   title: "ORCID"
+
+- name: Lattes
+  url: http://lattes.cnpq.br/5452440501863003
+  class: ai ai-lattes
+  title: "Lattes"
+
+# - name: ResearchGate
+#   url: #
+#   class: fab fa-researchgate
+#   title: "ResearchGate"

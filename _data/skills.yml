@@ -1,0 +1,98 @@
+# This page is used to automatically generate the Technical Skill list in the file pages/cv.md
+######################################
+
+# <!-- Languages -->
+- class: "language"
+  title: "Portuguese"
+  rating: "5"
+
+- class: "language"
+  title: "English"
+  rating: "4"
+
+- class: "language"
+  title: "Spanish"
+  rating: "3"
+
+- class: "language"
+  title: "French"
+  rating: "2"
+
+# <!-- Communication, Collaboration and Management -->
+- class: "collaboration"
+  title: "GitHub"
+  rating: "5"
+
+- class: "collaboration"
+  title: "Trello"
+  rating: "4"
+
+- class: "collaboration"
+  title: "Slack"
+  rating: "5"
+
+- class: "collaboration"
+  title: "Zoom"
+  rating: "5"
+
+- class: "collaboration"
+  title: "Teams"
+  rating: "4"
+
+# <!-- Programming Languages -->
+- class: "programming"
+  title: "Python"
+  rating: "5"
+
+- class: "programming"
+  title: "R"
+  rating: "4"
+
+- class: "programming"
+  title: "C"
+  rating: "4"
+
+- class: "programming"
+  title: "SQL"
+  rating: "3"
+
+- class: "programming"
+  title: "HTML"
+  rating: "1"
+
+- class: "programming"
+  title: "Bash"
+  rating: "3"
+
+- class: "programming"
+  title: "LaTeX"
+  rating: "5"
+
+- class: "programming"
+  title: "Markdown"
+  rating: "5"
+
+# <!-- Science Software -->
+- class: "software"
+  title: "Xmgrace"
+  rating: "4"
+
+- class: "software"
+  title: "Gnuplot"
+  rating: "3"
+
+- class: "software"
+  title: "Wolfram Mathematica"
+  rating: "2"
+
+- class: "software"
+  title: "Tableau"
+  rating: "3"
+
+- class: "software"
+  title: "Power BI"
+  rating: "2"
+
+- class: "software"
+  title: "MS Excel"
+  rating: "4"

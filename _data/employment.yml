@@ -1,0 +1,22 @@
+# This page is used to automatically generate the  Employment History in the file pages/cv.md
+######################################
+
+- job: "Masters Student"
+  employer: "Brazilian Center for Research in Physics (CBPF), Brazil"
+  start: "Aug 2021"
+  end: "Ongoing"
+
+- job: "Researcher Internship"
+  employer: "Physics Institute, Federal University of Rio Grande do Sul, Brazil"
+  start: "Jan 2019"
+  end: "Jan 2020"
+
+- job: "Trainee in Data Science"
+  employer: "Physics Institute, Federal University of Rio Grande do Sul, Brazil"
+  start: "Aug 2015"
+  end: "Jul 2019"
+
+- job: "Undergraduate student"
+  employer: "Physics Institute, Federal University of Rio Grande do Sul, Brazil"
+  start: "Mar 2015"
+  end: "Feb 2020"
