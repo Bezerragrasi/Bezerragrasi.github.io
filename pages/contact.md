@@ -19,5 +19,5 @@ permalink           : "/contact/"
 <div class="l15" markdown="1">*Please use this [e-mail address][2]*
 </div>
 
-[1]: https://github.com/patricia-ternes/patricia-ternes.github.io/issues
-[2]: mailto:p.ternesdallagnollo@leeds.ac.uk
+[1]: https://github.com/Bezerragrasi/Bezerragrasi.github.io/issues
+[2]: mailto:bezerragrasiele@gmail.com

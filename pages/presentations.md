@@ -52,7 +52,7 @@ Possible class:
 </ul>
 {% include _small-top-button.html %}
 
-## Campus and Invited Talks
+<!-- ## Campus and Invited Talks
 
 <ul class="presentation">
     {% for item in site.data.presentation %}
@@ -78,4 +78,4 @@ Possible class:
     {% endif %}
     {% endfor %}
 </ul>
-{% include _small-top-button.html %}
+{% include _small-top-button.html %} -->

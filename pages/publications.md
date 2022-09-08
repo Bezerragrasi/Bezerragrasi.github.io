@@ -34,9 +34,8 @@ title: "Publications"
 </ul>
 {% include _small-top-button.html %}
 
-## Accepted for Publication
+<!-- ## Accepted for Publication
 
-<!-- Automatically imports class "accepted" items from file _data/publications.yml -->
 <ul class="publication">
     {% for item in site.data.publications %}
     {% if item.class == "accepted" %}
@@ -48,7 +47,6 @@ title: "Publications"
 
 ## Under Review
 
-<!-- Automatically imports class "under-review" items from file _data/publications.yml -->
 <ul class="publication">
     {% for item in site.data.publications %}
     {% if item.class == "under-review" %}
@@ -63,7 +61,6 @@ title: "Publications"
 
 ## PhD Thesis
 
-<!-- Automatically imports class "thesis" items from file _data/publications.yml -->
 <ul class="publication">
     {% for item in site.data.publications %}
     {% if item.class == "thesis" %}
@@ -78,10 +75,36 @@ title: "Publications"
 
 ## Master Dissertation
 
-<!-- Automatically imports class "dissertation" items from file _data/publications.yml -->
 <ul class="publication">
     {% for item in site.data.publications %}
     {% if item.class == "dissertation" %}
+    <li> {{ item.authors }} ({{ item.year }})
+        <a href="{{ item.doi }}">{{ item.title }}</a>.
+        <i>{{ item.institution }}</i>, {{ item.address }}.
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul> -->
+
+## Book Chapters
+
+<ul class="publication">
+    {% for item in site.data.publications %}
+    {% if item.class == "book" %}
+    <li> {{ item.authors }} ({{ item.year }})
+        <a href="{{ item.doi }}">{{ item.title }}</a>.
+        In: <i>{{ item.journal }}</i>.
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+{% include _small-top-button.html %}
+
+## Bachelors Dissertation
+
+<ul class="publication">
+    {% for item in site.data.publications %}
+    {% if item.class == "bdissertation" %}
     <li> {{ item.authors }} ({{ item.year }})
         <a href="{{ item.doi }}">{{ item.title }}</a>.
         <i>{{ item.institution }}</i>, {{ item.address }}.
