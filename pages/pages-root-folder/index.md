@@ -8,14 +8,13 @@ title: "About me"
 <div class="row">
   <div class="medium-8 columns medium-push-4">
 
-    <p>I am a Research Software Engineer, focusing on Computational Mechanics, at the Research Computing, University of Leeds, UK. I have a PhD in Theoretical Physics, a Master degree in Condensed Matter Physics and a Licenciatura degree in Physics. For contact details, please see my <a href="{{ site.url }}{{ site.baseurl }}/cv">CV & Contact</a> page.</p>
-
-    <p>Most of my research focuses on the development of numerical simulation of complex systems in different areas, like simulations of fluid dynamics, nanoscopic friction, predator and prey relationship, and stock market. More recently, I also have become interested on understand and explain social systems, like flows of people around cities, in particular using agent-based modelling and data assimilation techniques.</p>
-
-    <p>I also have extensive teaching experience. I worked as an undergraduate Substitute Professor at Federal Institute Catarinense (Brazil). I also did three educational internships, working with non-traditional science education and tutoring students who have disabilities. </p>
+    <p>I am curriently cursing a full time Master Degree at Brazilian Center for Research in Physics (CBPF), Brazil. I have a Bachelor degree in Physics (2020) from Federal University of Rio Grande do Sul (UFRGS), Brazil. 
+    For contact details, please see my <a href="{{ site.url }}{{ site.baseurl }}/contact">Contact</a> page.</p>
+    
+    <p>Besides having an advanced knowledge in data science and excellent computational skills, I also have 5 years experience in analyse scientific and social data using a varied range of tools, such as excel, python, R and C. Most of her research is focused on astrophysics, cosmology and modified gravity, however she also has experience in using sciencemetry to understand and explain social behaviours.</p>
     
   </div>
-  <div class="medium-4 columns medium-pull-8 t20"> 
-    <img src="{{ site.url }}{{ site.baseurl }}/images/me1.jpg" alt="Me" style="border-radius: 10%">
+  <div class="medium-4 columns medium-pull-8"> 
+    <img src="{{ site.url }}{{ site.baseurl }}/images/me1.jpeg" alt="Me" style="border-radius: 10%">
   </div>
 </div>
