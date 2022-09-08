@@ -8,29 +8,29 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Patricia Ternes'
+title: 'Grasiele R. Bezerra'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-# slogan: 'Welcome to the personal homepage for Dr Patricia Ternes'
+# slogan: 'Welcome to the personal homepage for Bsc Grasiele R. Bezerra'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Dr Patricia Ternes« is  a Research Software Engineer, focusing on Computational Mechanics, at the Research Computing, University of Leeds, UK.'
+description: '»Bsc Grasiele R. Bezerra« is a Astrophysics Masters Student at Brazilian Center for Research in Physics (CBPF), Brazil.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Dr Patricia Ternes | <a href="https://arc.leeds.ac.uk/">Research Computing</a> | <a href="https://www.leeds.ac.uk/">University of Leeds</a></p>'
+credits: '<p>Bsc Grasiele R. Bezerra | <a href="https://www2.cbpf.br/index.php/">Brazilian Center for Research in Physics (CBPF)</a></p>'
 
 # Main author of the website
 # See > authors.yml
-author: Patricia Ternes
+author: Grasiele R. Bezerra
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: https://patricia-ternes.github.io
+url: https://Bezerragrasi.github.io
 #baseurl: '/jekylltest'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-# improve_content: https://patricia-ternes.github.io/edit/gh-pages
+# improve_content: https://Bezerragrasi.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -112,7 +112,7 @@ defaults:
       show_meta: false  # Hide metadata for all pages
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: 'Patricia Ternes'     # Default author for pages
+      author: 'Grasiele R. Bezerra'     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: 'Patricia Ternes'     # Default author for posts
+      author: 'Grasiele R. Bezerra'     # Default author for posts
 
 
 
