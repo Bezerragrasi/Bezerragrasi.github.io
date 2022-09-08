@@ -15,6 +15,6 @@ title: "About me"
     
   </div>
   <div class="medium-4 columns medium-pull-8"> 
-    <img src="{{ site.url }}{{ site.baseurl }}/images/me1.jpeg" alt="Me" style="border-radius: 10%">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/me.jpeg" alt="Me" style="border-radius: 10%">
   </div>
 </div>
