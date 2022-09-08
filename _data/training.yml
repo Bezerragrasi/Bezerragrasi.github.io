@@ -1,64 +1,90 @@
-- subject: "Scientific Computing with Python"
-  provider: "freeCodeCamp.org"
+# This page is used to automatically generate the Professional Training table in the file pages/cv.md
+######################################
+
+- subject: "Summer School in Astrostatistics"
+  provider: "Pennsylvania State University, USA"
   year: "2022"
 
-- subject: "Fundamentals of Accelerated Computing with CUDA Python"
-  provider: "NVIDIA DLI"
+- subject: "Summer School in Astroinformatics II"
+  provider: "Pennsylvania State University, USA"
   year: "2022"
 
-- subject: "Time Series Forecasting with Python"
-  provider: "AI+ TRAINING"
+- subject: "Testes Astrofísicos da Relatividade Geral"
+  provider: "Brazilian Center for Research in Physics, Brazil"
   year: "2021"
 
-- subject: "SWD6: High Performance Python"
-  provider: "IT Training, University of Leeds"
+- subject: "Ondas Gravitacionais"
+  provider: "Brazilian Center for Research in Physics, Brazil"
   year: "2021"
 
-- subject: "SWD2: Version Control with Git / Github"
-  provider: "IT Training, University of Leeds"
+- subject: "Cosmologia Primordial"
+  provider: "Brazilian Center for Research in Physics, Brazil"
   year: "2021"
 
-- subject: "HPC1: HPC Carpentry"
-  provider: "IT Training, University of Leeds"
+- subject: "Data Analytics in Power BI"
+  provider: "Coursera, USA"
+  year: "2021"
+
+- subject: "Getting Started with Power BI Desktop"
+  provider: "Coursera, USA"
+  year: "2021"
+
+- subject: "Privacy Law and Data Protection"
+  provider: "University of Pennsylvania, UPENN, USA"
+  year: "2021"
+
+- subject: "Professional Certificate in Data Science"
+  provider: "Harvard University, USA"
+  year: "2021"
+
+- subject: "Psicologia da Aprendizagem"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
-- subject: "Java Programming: Solving Problems with Software"
-  provider: "Duke University"
+- subject: "Programação Básica com Java I"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
-- subject: "Java Basic Programming I, II & III"
-  provider: "Federal Institute of Rio Grande do Sul"
+- subject: "Data-driven Astronomy"
+  provider: "The University of Sydney, Austrália"
   year: "2020"
 
-- subject: "Administrative Law"
-  provider: "Federal Institute of Rio Grande do Sul"
+- subject: "Introdução à Astronomia"
+  provider: "Federal Institute Farroupilha, Brazil"
+  year: "2020"
+
+- subject: "Projetos Educacionais e Interdisciplinares"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Curso de Webdesigner"
+  provider: "Prime Cursos, Brazil"
+  year: "2020"
+
+- subject: "Banco de Dados: fundamentos"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Python"
+  provider: "Prime Cursos, Brazil"
+  year: "2020"
+
+- subject: "Aprendizagem Significativa"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Educação a Distância"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Abordagens Pedagógicas Modernas na Educação a Distância"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Personalização do Ensino a partir de Metodologias Ativas"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Minicurso de Cosmologia"
+  provider: "Federal University of Rio Grande do Sul, UFRGS, Brazil"
   year: "2019"
-
-- subject: "Administration Fundamentals"
-  provider: "Federal Institute of Rio Grande do Sul"
-  year: "2019"
-
-- subject: "Creating Educational Videos"
-  provider: "Federal Institute of Rio Grande do Sul"
-  year: "2019"
-
-- subject: "Public Service Ethics"
-  provider: "Federal Institute of Rio Grande do Sul"
-  year: "2019"
-
-- subject: "Personalizing Teaching through Active Methodologies"
-  provider: "Federal Institute of Rio Grande do Sul"
-  year: "2019"
-
-- subject: "Use of technologies to support teaching"
-  provider: "Federal Institute Catarinense"
-  year: "2018"
-
-- subject: "Programming in CUDA"
-  provider: "Federal University of Rio Grande do Sul"
-  year: "2015"
-
-- subject: "Initial Training of Tutors for distance education"
-  provider: "Federal University of Santa Catarina"
-  year: "2011"
-

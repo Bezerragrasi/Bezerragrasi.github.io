@@ -1,11 +1,10 @@
-- degree: "PhD in Science: Theoretical Physics"
+# This page is used to automatically generate the Education list in the file pages/cv.md
+######################################
+
+- degree: "Masters Student in Astrophysics"
+  institution: "Brazilian Center for Research in Physics (CBPF), Brazil"
+  year: "Ongoing"
+
+- degree: "Bachelor's Degree in Physics"
   institution: "Physics Institute, Federal University of Rio Grande do Sul, Brazil"
-  year: "2018"
-
-- degree: "MSc. in Physics"
-  institution: "Physics Department, Federal University of Santa Catarina, Brazil"
-  year: "2014"
-
-- degree: "Licenciatura in Physics"
-  institution: "Physics Department, Federal University of Santa Catarina, Brazil"
-  year: "2012" 
+  year: "2020" 
