@@ -64,31 +64,7 @@
 			{% endfor %}
 		</div>
 
-		<!-- Image & Video Editor -->
-		<h5 class="t50 b15 l15">Image & Video Editor</h5>
-		<div class="l30">
-			{% for item in site.data.skills %}
-			{% if item.class == "graphics" %}
-			{{ item.title }}
-			<div class="bar-container">
-				<div class="bar-{{ item.rating }}"></div>
-			</div>
-			{% endif %}
-			{% endfor %}
-		</div>
-
-		<!-- Computer Simulation Methods -->
-		<h5 class="t50 b15 l15">Computer Simulation Methods</h5>
-		<div class="l30">
-			{% for item in site.data.skills %}
-			{% if item.class == "computational" %}
-			{{ item.title }}
-			<div class="bar-container">
-				<div class="bar-{{ item.rating }}"></div>
-			</div>
-			{% endif %}
-			{% endfor %}
-		</div>
+		
 
 		<!-- Science Software -->
 		<h5 class="t50 b15 l15">Science Software</h5>

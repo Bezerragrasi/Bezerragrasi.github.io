@@ -1,24 +1,9 @@
 # This page is used to automatically generate the Professional Training table in the file pages/cv.md
 ######################################
 
-- subject: "Summer School in Astrostatistics"
-  provider: "Pennsylvania State University, USA"
-  year: "2022"
 
-- subject: "Summer School in Astroinformatics II"
-  provider: "Pennsylvania State University, USA"
-  year: "2022"
-
-- subject: "Testes Astrofísicos da Relatividade Geral"
-  provider: "Brazilian Center for Research in Physics, Brazil"
-  year: "2021"
-
-- subject: "Ondas Gravitacionais"
-  provider: "Brazilian Center for Research in Physics, Brazil"
-  year: "2021"
-
-- subject: "Cosmologia Primordial"
-  provider: "Brazilian Center for Research in Physics, Brazil"
+- subject: "Professional Certificate in Data Science"
+  provider: "Harvard University, USA"
   year: "2021"
 
 - subject: "Data Analytics in Power BI"
@@ -33,35 +18,31 @@
   provider: "University of Pennsylvania, UPENN, USA"
   year: "2021"
 
-- subject: "Professional Certificate in Data Science"
-  provider: "Harvard University, USA"
-  year: "2021"
-
-- subject: "Psicologia da Aprendizagem"
-  provider: "Federal Institute of Rio Grande do Sul, Brazil"
-  year: "2020"
-
-- subject: "Programação Básica com Java I"
-  provider: "Federal Institute of Rio Grande do Sul, Brazil"
-  year: "2020"
-
 - subject: "Data-driven Astronomy"
   provider: "The University of Sydney, Austrália"
   year: "2020"
 
-- subject: "Introdução à Astronomia"
+- subject: "Introduction to Astronomy"
   provider: "Federal Institute Farroupilha, Brazil"
   year: "2020"
 
-- subject: "Projetos Educacionais e Interdisciplinares"
+- subject: "Learning Psychology"
   provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
-- subject: "Curso de Webdesigner"
+- subject: "Basic Coding with Java I"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Educational and Interdisciplinary Projects"
+  provider: "Federal Institute of Rio Grande do Sul, Brazil"
+  year: "2020"
+
+- subject: "Course in Webdesigner"
   provider: "Prime Cursos, Brazil"
   year: "2020"
 
-- subject: "Banco de Dados: fundamentos"
+- subject: "Database 1: Fundamentals"
   provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
@@ -69,22 +50,22 @@
   provider: "Prime Cursos, Brazil"
   year: "2020"
 
-- subject: "Aprendizagem Significativa"
+- subject: "Meaningful Learning"
   provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
-- subject: "Educação a Distância"
+- subject: "Distance Education"
   provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
-- subject: "Abordagens Pedagógicas Modernas na Educação a Distância"
+- subject: "Modern Pedagogical Approach for Distance Education"
   provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
-- subject: "Personalização do Ensino a partir de Metodologias Ativas"
+- subject: "Personalization of Teaching from Active Methodologies"
   provider: "Federal Institute of Rio Grande do Sul, Brazil"
   year: "2020"
 
-- subject: "Minicurso de Cosmologia"
+- subject: "Course in Cosmology"
   provider: "Federal University of Rio Grande do Sul, UFRGS, Brazil"
   year: "2019"

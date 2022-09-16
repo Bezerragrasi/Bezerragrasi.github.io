@@ -23,11 +23,15 @@ title: "Curriculum Vitae"
 ## Skills
 
 * Public speaking
-* Teaching and mentoring
-* Code reading and debugging
+* Working to deadlines and under pressure
 * Multiple coding languages
 * Software Development
-* Working to deadlines and under pressure
+* Analitical and Numerical Analises
+* Statistical Analises
+* Astronomy and Astrophysics
+* General Relativity
+* Modified Gravity
+
 
 {% include _small-top-button.html %}
 
@@ -91,6 +95,29 @@ For a complete presentation list see my [Presentation homepage](presentations.md
 
 {% include _small-top-button.html %}
 
+## Summer/Winter Schools
+
+<!-- Automatically imports items from file _data/training.yml -->
+<table id="fancytable">
+    <!-- Table Header -->
+    <tr>
+        <th>Year</th>
+        <th>Subject Studied</th>
+        <th>Provider</th>
+    </tr>
+
+    <!-- Table Main Content -->
+    {% for item in site.data.schools %}
+    <tr>
+        <td>{{ item.year }}</td>
+        <td>{{ item.subject }}</td>
+        <td>{{ item.provider }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% include _small-top-button.html %}
+
 ## Professional Training
 
 <!-- Automatically imports items from file _data/training.yml -->
@@ -113,3 +140,4 @@ For a complete presentation list see my [Presentation homepage](presentations.md
 </table>
 
 {% include _small-top-button.html %}
+
