@@ -9,15 +9,6 @@
 ######################################
 
 - class: "presentation"
-  title: "Galaxy Dynamics and Modified Gravity from Velocity Dispersion in Eintein Rings Systems"
-  material: " "
-  authors: "<b>Grasiele R. Bezerra</b>"
-  event: "Cosmology From Home 2022"
-  date: "2022"
-  local: " "
-  url: "#"
-
-- class: "presentation"
   title: "Testing Gravity with Einstein Rings and Velocity Dispersion"
   material: " "
   authors: "<b>Grasiele R. Bezerra</b>"
@@ -27,7 +18,17 @@
   url: "#"
 
 - class: "presentation"
-  title: "Testando gravidade pós-Newtoniana parametrizada utilizando lentes gravitacionais fortes"
+  title: "Galaxy Dynamics and Modified Gravity from Velocity Dispersion in Eintein Rings Systems"
+  material: " "
+  authors: "<b>Grasiele R. Bezerra</b>"
+  event: "Cosmology From Home 2022"
+  date: "2022"
+  local: " "
+  url: "#"
+
+
+- class: "presentation"
+  title: "Testing the Parameterized Post‐Newtonian Gravity with Strong Gravitational Lensing"
   material: " "
   authors: "<b>Grasiele R. Bezerra</b>"
   event: "First Workshop on Lensing by Galaxies and Clusters"
@@ -45,7 +46,7 @@
   url: "#"
 
 - class: "poster"
-  title: "Mulheres na Física"
+  title: "Women in Physics in Brazil"
   material: "#"
   authors: "<b>Grasiele R. Bezerra</b>"
   event: "VII Workshop in Complexity of Water, Other Liquids and Science Education"
@@ -54,7 +55,7 @@
   url: "#"
 
 - class: "poster"
-  title: "Mulheres na Física"
+  title: "Women in Physics"
   material: "#"
   authors: "<b>Grasiele R. Bezerra</b>"
   event: "VI Workshop on Complexity of Water and other Liquids"
