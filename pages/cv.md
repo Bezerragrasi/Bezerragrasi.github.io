@@ -26,8 +26,8 @@ title: "Curriculum Vitae"
 * Working to deadlines and under pressure
 * Multiple coding languages
 * Software Development
-* Analitical and Numerical Analises
-* Statistical Analises
+* Analytical and Numerical Analyses
+* Statistical Analyses
 * Astronomy and Astrophysics
 * General Relativity
 * Modified Gravity
