@@ -83,6 +83,32 @@ title: "Curriculum Vitae"
 
 {% include _small-top-button.html %}
 
+## Awards 
+
+<h3>Awards</h3>
+
+<!-- Automatically imports items from file _data/awards.yml -->
+<table id="fancytable">
+    <!-- Table Header -->
+    <tr>
+        <th>Date</th>
+        <th>Type</th>
+        <th>Description</th>
+    </tr>
+
+    <!-- Table Main Content -->
+    {% for item in site.data.awards %}
+    <tr>
+        <td>{{ item.date }}</td>
+        <td>{{ item.type }}</td>
+        <td>{{ item.description }}</td>
+    </tr>
+    {% endfor %}
+</table>
+
+{% include _small-top-button.html %}
+
+
 ## Publications
 
 For a complete publication list see my [Publication homepage](publications.md).
