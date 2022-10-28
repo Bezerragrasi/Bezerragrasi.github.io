@@ -85,8 +85,6 @@ title: "Curriculum Vitae"
 
 ## Awards 
 
-<h3>Awards</h3>
-
 <!-- Automatically imports items from file _data/awards.yml -->
 <table id="fancytable">
     <!-- Table Header -->
