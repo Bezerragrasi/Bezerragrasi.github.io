@@ -11,7 +11,7 @@ title: "Curriculum Vitae"
      under the /* Fancy table style */ header  (#fancytable css class)
 -->
 
-<a class="radius button" href="{{ site.url }}{{ site.baseurl }}/documents/cv/GR-Bezerra_CV.pdf"> > > PDF copy of my CV is available here < < </a>
+<a class="radius button" href="{{ site.url }}{{ site.baseurl }}/documents/cv/GR-Bezerra_CV.pdf"> > > PDF summary of my CV is available here < < </a>
 
 <div class="panel radius" markdown="1">
 **Table of Contents**
