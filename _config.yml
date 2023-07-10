@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Grasiele R. Bezerra'
+title: 'Grasiele Romanzini-Bezerra'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 # slogan: 'Welcome to the personal homepage for Bsc Grasiele R. Bezerra'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Bsc Grasiele R. Bezerra« is a Astrophysics Masters Student at Brazilian Center for Research in Physics (CBPF), Brazil.'
+description: '»Msc Grasiele Romanzini-Bezerra« is a Astrophysics Masters Student at Brazilian Center for Research in Physics (CBPF), Brazil.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Bsc Grasiele R. Bezerra | <a href="https://www2.cbpf.br/index.php/">Brazilian Center for Research in Physics (CBPF)</a></p>'
+credits: '<p>Msc Grasiele Romanzini-Bezerra | <a href="https://www2.cbpf.br/index.php/">Brazilian Center for Research in Physics (CBPF)</a></p>'
 
 # Main author of the website
 # See > authors.yml
-author: Grasiele R. Bezerra
+author: Romanzini-Bezerra
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -112,7 +112,7 @@ defaults:
       show_meta: false  # Hide metadata for all pages
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: 'Grasiele R. Bezerra'     # Default author for pages
+      author: 'Grasiele Romanzini-Bezerra'     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: 'Grasiele R. Bezerra'     # Default author for posts
+      author: 'Grasiele Romanzini-Bezerra'     # Default author for posts
 
 
 
