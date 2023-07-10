@@ -28,6 +28,7 @@ title: "Curriculum Vitae"
 * Software Development
 * Analytical and Numerical Analyses
 * Statistical Analyses
+* Data Driven Desision Making
 * Astronomy and Astrophysics
 * General Relativity
 * Modified Gravity
