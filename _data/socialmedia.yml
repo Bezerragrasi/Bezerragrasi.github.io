@@ -8,10 +8,10 @@
   class: fab fa-linkedin-in
   title: "LinkedIn"
 
-# - name: ORCID
-#   url: #
-#   class: fab fa-orcid
-#   title: "ORCID"
+- name: ORCID
+  url: https://orcid.org/0000-0002-2032-9335
+  class: fab fa-orcid
+  title: "ORCID"
 
 - name: Lattes
   url: http://lattes.cnpq.br/5452440501863003

@@ -1,6 +1,11 @@
 # This page is used to automatically generate the  Employment History in the file pages/cv.md
 ######################################
 
+- job: "Research Assistant"
+  employer: "University of Leeds, England"
+  start: "Aug 2023"
+  end: "Ongoing"
+
 - job: "Masters Research"
   employer: "Brazilian Center for Research in Physics (CBPF), Brazil"
   start: "Aug 2021"
