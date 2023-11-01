@@ -10,6 +10,13 @@
   pages: "2543 - 2552"
   doi: "https://doi.org/10.1590/0001-3765201820170107"
 
+- class: "accepted"
+  authors: "<b>Romanzini-Bezerra, Grasiele</b> and Makler, Martin and Furlanetto, Cristina"
+  year: "2023"
+  title: "Impact of Galaxy Dynamics on Modified Gravity Constraints from Strong Lensing Systems"
+  journal: "Proceedings of the International Astronomical Union"
+
+
 - class: "book"
   authors: "<b>Bezerra, Grasiele</b> and Lazzaro, Daniela and Peixoto, Aruquia and Lopes, Maria Margaret and Andrade, Carolina Horta and  Lopes, Helena J. Nussenzveig and  Barbosa, Marcia C."
   year: "2019"
@@ -26,8 +33,15 @@
   pages: "130 - 133"
   doi: "http://www.sbfisica.org.br/arquivos/SBF-50-anos.pdf"
 
+- class: "mdissertation"
+  authors: "<b>Bezerra, Grasiele R</b>"
+  year: "2023"
+  title: "Galaxy Dynamics and Modified Gravity from Einstein Rings and Velocity Dispersion"
+  institution: "Brazilian Center for Research in Physics "
+  address: "Rio de Janeiro, Brazil"
+
 - class: "bdissertation"
-  authors: "<b>Bezerra, Grasiele</b>"
+  authors: "<b>Bezerra, Grasiele R</b>"
   year: "2019"
   title: "Testando gravidade pós-Newtoniana parametrizada com lentes gravitacionais fortes"
   institution: "Federal University of Rio Grande do Sul"

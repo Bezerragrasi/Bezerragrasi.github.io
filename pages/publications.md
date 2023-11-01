@@ -34,7 +34,7 @@ title: "Publications"
 </ul>
 {% include _small-top-button.html %}
 
-<!-- ## Accepted for Publication
+## Accepted for Publication
 
 <ul class="publication">
     {% for item in site.data.publications %}
@@ -45,7 +45,7 @@ title: "Publications"
 </ul>
 {% include _small-top-button.html %}
 
-## Under Review
+<!-- ## Under Review
 
 <ul class="publication">
     {% for item in site.data.publications %}
@@ -71,20 +71,9 @@ title: "Publications"
     {% endif %}
     {% endfor %}
 </ul>
-{% include _small-top-button.html %}
+{% include _small-top-button.html %} -->
 
-## Master Dissertation
 
-<ul class="publication">
-    {% for item in site.data.publications %}
-    {% if item.class == "dissertation" %}
-    <li> {{ item.authors }} ({{ item.year }})
-        <a href="{{ item.doi }}">{{ item.title }}</a>.
-        <i>{{ item.institution }}</i>, {{ item.address }}.
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul> -->
 
 ## Book Chapters
 
@@ -99,6 +88,19 @@ title: "Publications"
     {% endfor %}
 </ul>
 {% include _small-top-button.html %}
+
+## Master Dissertation
+
+<ul class="publication">
+    {% for item in site.data.publications %}
+    {% if item.class == "mdissertation" %}
+    <li> {{ item.authors }} ({{ item.year }})
+        <a href="{{ item.doi }}">{{ item.title }}</a>.
+        <i>{{ item.institution }}</i>, {{ item.address }}.
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul> 
 
 ## Bachelors Dissertation
 
