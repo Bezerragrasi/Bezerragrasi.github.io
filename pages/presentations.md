@@ -30,7 +30,7 @@ Possible class:
     {% for item in site.data.presentation %}
     {% if item.class == "presentation" %}
     <li> <a href="{{ item.material }}">{{ item.title }}</a>.
-        Keynote presentation by {{ item.authors }} at the
+        Presentation by {{ item.authors }} at the
         <a href="{{ item.url }}">{{ item.event }}</a>, {{ item.date }}, {{ item.local }}.
     </li>
     {% endif %}

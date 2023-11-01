@@ -45,6 +45,17 @@ title: "Publications"
 </ul>
 {% include _small-top-button.html %}
 
+## Under Production
+
+<ul class="publication">
+    {% for item in site.data.publications %}
+    {% if item.class == "inprep" %}
+    <li> {{ item.authors }} ({{ item.year }}) {{ item.title }}. <i>{{ item.journal }}</i>.</li>
+    {% endif %}
+    {% endfor %}
+</ul>
+{% include _small-top-button.html %}
+
 <!-- ## Under Review
 
 <ul class="publication">
