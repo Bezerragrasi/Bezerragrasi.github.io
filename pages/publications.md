@@ -34,7 +34,7 @@ title: "Publications"
 </ul>
 {% include _small-top-button.html %}
 
-## Accepted for Publication
+<!-- ## Accepted for Publication
 
 <ul class="publication">
     {% for item in site.data.publications %}
@@ -43,7 +43,7 @@ title: "Publications"
     {% endif %}
     {% endfor %}
 </ul>
-{% include _small-top-button.html %}
+{% include _small-top-button.html %} -->
 
 ## Under Production
 

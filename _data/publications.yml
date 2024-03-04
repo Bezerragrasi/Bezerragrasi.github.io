@@ -1,5 +1,13 @@
 # This page is used to automatically generate the publication list in the file pages/publications.md
 ######################################
+- class: "peer-reviewed"
+  authors: "<b>Romanzini-Bezerra, Grasiele</b> and Makler, Martin and Furlanetto, Cristina"
+  year: "2024"
+  title: "Impact of Galaxy Dynamics on Modified Gravity Constraints from Strong Lensing Systems"
+  journal: "Proceedings of the International Astronomical Union"
+  volume: "18"
+  pages: "135 – 137"
+  doi: "https://doi.org/110.1017/S1743921323004246"
 
 - class: "peer-reviewed"
   authors: "Ferrari, Nathália C and Martell, Raquel and Okido, Daniela H and <b>Romanzini, Grasiele</b> and Magnan, Viviane and Barbosa, Marcia C and Brito, Carolina"
@@ -10,14 +18,7 @@
   pages: "2543 - 2552"
   doi: "https://doi.org/10.1590/0001-3765201820170107"
 
-- class: "peer-reviewed"
-  authors: "<b>Romanzini-Bezerra, Grasiele</b> and Makler, Martin and Furlanetto, Cristina"
-  year: "2024"
-  title: "Impact of Galaxy Dynamics on Modified Gravity Constraints from Strong Lensing Systems"
-  journal: "Proceedings of the International Astronomical Union"
-  volume: "18"
-  pages: "135 – 137"
-  doi: "https://doi.org/110.1017/S1743921323004246"
+
 
 - class: "inprep"
   authors: "<b>Romanzini-Bezerra, Grasiele</b> and Maycock, Amanda C."
