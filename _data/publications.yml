@@ -1,6 +1,15 @@
 # This page is used to automatically generate the publication list in the file pages/publications.md
 ######################################
 - class: "peer-reviewed"
+  authors: "<b>Romanzini-Bezerra, Grasiele</b> and   Maycock, Amanda C."
+  year: "2024"
+  title: "Projected rapid response of stratospheric temperature to stringent climate mitigation"
+  journal: "Nature Communications"
+  volume: "15"
+  pages: "2041-1723"
+  doi: "https://doi.org/10.1038/s41467-024-50648-8"
+
+- class: "peer-reviewed"
   authors: "<b>Romanzini-Bezerra, Grasiele</b> and Makler, Martin and Furlanetto, Cristina"
   year: "2024"
   title: "Impact of Galaxy Dynamics on Modified Gravity Constraints from Strong Lensing Systems"

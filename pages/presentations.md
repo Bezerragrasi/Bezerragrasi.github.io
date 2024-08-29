@@ -24,19 +24,7 @@ Possible class:
 {:toc}
 </div>
 
-## Conference Presentations
 
-<ul class="presentation">
-    {% for item in site.data.presentation %}
-    {% if item.class == "presentation" %}
-    <li> <a href="{{ item.material }}">{{ item.title }}</a>.
-        Oral Presentation by {{ item.authors }} at the
-        <a href="{{ item.url }}">{{ item.event }}</a>, {{ item.date }}, {{ item.local }}.
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
-{% include _small-top-button.html %}
 
 ## Conference Poster Session
 
@@ -45,6 +33,20 @@ Possible class:
     {% if item.class == "poster" %}
     <li> <a href="{{ item.material }}">{{ item.title }}</a>.
         Poster Presentation by {{ item.authors }} at the
+        <a href="{{ item.url }}">{{ item.event }}</a>, {{ item.date }}, {{ item.local }}.
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
+{% include _small-top-button.html %}
+
+## Conference Presentations
+
+<ul class="presentation">
+    {% for item in site.data.presentation %}
+    {% if item.class == "presentation" %}
+    <li> <a href="{{ item.material }}">{{ item.title }}</a>.
+        Oral Presentation by {{ item.authors }} at the
         <a href="{{ item.url }}">{{ item.event }}</a>, {{ item.date }}, {{ item.local }}.
     </li>
     {% endif %}
